@@ -1,0 +1,29 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+public
+.tmp
+
+# OS Specific
+.DS_Store
+Desktop.ini
+Thumbs.db
+*.swp
+
+# Patch files
+*.patch
+
+# Tools
+.idea
+*.iml
+.webstorm
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

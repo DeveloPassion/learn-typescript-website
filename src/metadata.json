@@ -1,0 +1,18 @@
+{
+  "author": "Sébastien Dubois",
+  "description": "Learn TypeScript",
+  "contact": {
+    "mail": "contact",
+    "mailDomain": "learn-typescript.dev"
+  },
+
+  "siteUrl": "https://www.learn-typescript.dev",
+  "siteSources": "https://github.com/DeveloPassion/learn-typescript-website",
+  "social": {
+    "blogSebastien": "https://medium.com/@dSebastien",
+    "linkedInSebastien": "https://www.linkedin.com/in/sebastiend/",
+    "twitterSebastien": "https://twitter.com/dSebastien",
+    "newsletter": "https://mailchi.mp/fb661753d54a/developassion-newsletter"
+  },
+  "title": "Learn TypeScript"
+}
