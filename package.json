@@ -35,7 +35,7 @@
     "gatsby-plugin-ts-loader": "0.1.0",
     "gatsby-source-filesystem": "2.1.29",
     "gatsby-transformer-sharp": "2.2.20",
-    "gonzales-pe": "4.2.4",
+    "gonzales-pe": "4.3.0",
     "htmlparser2": "4.0.0",
     "io-ts": "2.0.1",
     "react": "16.10.2",
